@@ -1,0 +1,10 @@
+{
+  "name": "electron-vue-sqlite3-demo",
+  "version": "1.0.0",
+  "description": "A Electron-vue-sqlite3-demo project",
+  "author": "lululuffy@qq.com",
+  "main": "electron.prod.js",
+  "dependencies": {
+    "sqlite3": "^3.1.13"
+  }
+}
